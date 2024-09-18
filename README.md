@@ -1,0 +1,2 @@
+# workerpool
+Golang worker pool
